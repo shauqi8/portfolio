@@ -10,6 +10,10 @@ body {
     line-height: 1.6;
     background-color: #fff;
     color: #333;
+    background-image: url('C:\Users\Famil\portfolio\A.jfif'); /* Path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .container {
@@ -22,13 +26,6 @@ body {
 h1, h2 {
     margin-bottom: 1rem;
     text-align: center;
-}
-
-body {
-    background-image: url('C:\Users\Famil\portfolio\A.jfif'); /* Path to your background image */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 /* Header */
